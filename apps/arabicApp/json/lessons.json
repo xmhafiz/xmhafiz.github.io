@@ -1,0 +1,25 @@
+{
+    "lessons": [
+        {
+            "title": "Lesson 1",
+            "subtitle": "Lorem ipsum sir dolar",
+            "practices": [
+                {
+                    "imageURL": "http..",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                }
+            ],
+            "exercises": [ // generate from practices
+                {
+                    "imageURL": "http..",
+                    "audioURL": "",
+                    "answerURLs": [
+                        "..."
+                        "..."
+                    ]
+                }
+            ]
+        }
+    ]
+}
