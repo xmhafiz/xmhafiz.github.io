@@ -85,6 +85,84 @@
                     "audioURL": ""
                 }
             ]
+        },
+        {
+            "id": "002",
+            "title": "Lesson 2",
+            "subtitle": "Learn About Colors",
+            "thumbnailURL": "https://xmhafiz.github.io/apps/arabicApp/images/02_00_lesson2.jpg",
+            "practices": [
+                {
+                    "id": "012",
+                    "title": "Red",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_bag.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "013",
+                    "title": "Blue",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/002_bicycle.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "014",
+                    "title": "Yellow",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_book.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "015",
+                    "title": "Green",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_car.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "016",
+                    "title": "Gray",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_chair.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "017",
+                    "title": "Purple",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_eraser.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "018",
+                    "title": "Brown",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/007_fan.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "019",
+                    "title": "Pink",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/008_house.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "020",
+                    "title": "White",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/009_lamp.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "021",
+                    "title": "Black",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/010_pen.jpg",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                }
+            ]
         }
     ]
 }
