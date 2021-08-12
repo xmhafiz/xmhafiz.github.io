@@ -1,5 +1,5 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "lessons": [
         {
             "id": "001",
@@ -186,21 +186,21 @@
                 },
                 {
                     "id": "024",
-                    "title": "Blue",
+                    "title": "Watermelon",
                     "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/024_watermelon.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "025",
-                    "title": "Yellow",
+                    "title": "Banana",
                     "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/025_banana.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "026",
-                    "title": "Yellow",
+                    "title": "Apple",
                     "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/026_apple.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
