@@ -6,7 +6,7 @@
             "title": "Lesson 1",
             "subtitle": "A Little Things",
             "thumbnailURL": "https://xmhafiz.github.io/apps/arabicApp/images/01_00_lesson1.png",
-            "practices": [
+            "cards": [
                 {
                     "id": "001",
                     "title": "Bag",
@@ -91,7 +91,7 @@
             "title": "Lesson 2",
             "subtitle": "Learn About Colors",
             "thumbnailURL": "https://xmhafiz.github.io/apps/arabicApp/images/02_00_lesson2.jpg",
-            "practices": [
+            "cards": [
                 {
                     "id": "012",
                     "title": "Red",
