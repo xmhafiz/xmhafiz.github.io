@@ -95,70 +95,77 @@
                 {
                     "id": "012",
                     "title": "Red",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_bag.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/red.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "013",
                     "title": "Blue",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/002_bicycle.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/blue.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "014",
                     "title": "Yellow",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_book.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/yellow.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "015",
                     "title": "Green",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_car.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/green.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "016",
                     "title": "Gray",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_chair.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/gray.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "017",
                     "title": "Purple",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_eraser.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/purple.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "018",
                     "title": "Brown",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/007_fan.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/brown.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "019",
                     "title": "Pink",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/008_house.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/pink.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "020",
                     "title": "White",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/009_lamp.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/white.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "021",
                     "title": "Black",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/010_pen.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/black.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "022",
+                    "title": "Orange",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/orange.png",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 }
