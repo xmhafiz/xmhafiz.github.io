@@ -17,70 +17,70 @@
                 {
                     "id": "001-02",
                     "title": "Bicycle",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/002_bicycle.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_bicycle.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-03",
                     "title": "Book",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_book.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_book.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-04",
                     "title": "Car",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_car.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_car.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-05",
                     "title": "Chair",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_chair.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_chair.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-06",
                     "title": "Eraser",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_eraser.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_eraser.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-07",
                     "title": "Fan",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/007_fan.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_fan.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-08",
                     "title": "House",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/008_house.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_house.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-09",
                     "title": "Lamp",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/009_lamp.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_lamp.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-10",
                     "title": "Pen",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/010_pen.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_pen.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "001-11",
                     "title": "Scissors",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/011_scissors.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/001_scissors.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 }
@@ -180,28 +180,28 @@
                 {
                     "id": "003-01",
                     "title": "Strawberry",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/023_strawberry.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_strawberry.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "003-02",
                     "title": "Watermelon",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/024_watermelon.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_watermelon.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "003-03",
                     "title": "Banana",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/025_banana.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_banana.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 },
                 {
                     "id": "003-04",
                     "title": "Apple",
-                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/026_apple.jpg",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/003_apple.jpg",
                     "arabicTextURL": "..",
                     "audioURL": ""
                 }
@@ -284,6 +284,163 @@
                     "audioURL": ""
                 }
 
+            ]
+        },
+        {
+            "id": "005",
+            "title": "Lesson 5",
+            "subtitle": "Animals",
+            "thumbnailURL": "",
+            "cards": [
+                {
+                    "id": "005-01",
+                    "title": "One",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_1.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-02",
+                    "title": "Two",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_2.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-03",
+                    "title": "Three",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_3.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-04",
+                    "title": "Four",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_4.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-05",
+                    "title": "Five",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_5.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-06",
+                    "title": "Six",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_6.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-07",
+                    "title": "Seven",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_7.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-08",
+                    "title": "Eight",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_8.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-09",
+                    "title": "Nine",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/005_9.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "005-10",
+                    "title": "Ten",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_10.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                }
+
+            ]
+        },
+        {
+            "id": "006",
+            "title": "Lesson 6",
+            "subtitle": "Vegetables",
+            "thumbnailURL": "",
+            "cards": [
+                {
+                    "id": "006-01",
+                    "title": "One",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_1.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-02",
+                    "title": "Two",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_2.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-03",
+                    "title": "Three",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_3.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-04",
+                    "title": "Four",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_4.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-05",
+                    "title": "Five",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_5.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-06",
+                    "title": "Six",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_6.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-07",
+                    "title": "Seven",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_7.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-08",
+                    "title": "Eight",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_8.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-09",
+                    "title": "Nine",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/006_9.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                },
+                {
+                    "id": "006-10",
+                    "title": "Ten",
+                    "imageURL": "https://xmhafiz.github.io/apps/arabicApp/images/004_10.png",
+                    "arabicTextURL": "..",
+                    "audioURL": ""
+                }
             ]
         }
     ]
